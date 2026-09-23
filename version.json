@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.0.3/BearUongMilo_v1.0.3.zip",
-  "sha256": "06a1564b73f928087214b7c37e1eacafb87f2e61d0c7d135a5bfbe503e3c4b2c",
-  "size": 114465993,
-  "published_at": "2026-09-23T15:27:14.513126+00:00",
-  "changelog": "Cập nhật BearUongMilo v1.0.3.",
-  "signature": "na+CuhFA71p+SPKh6bW6TZcVVRcZ8J7pAPIPlJ/TawKFFaw1VYchfLDvbMrD+YeJp4/F03sPTfwu3ubdz0yEAA=="
+  "version": "1.0.4",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.0.4/BearUongMilo_v1.0.4.zip",
+  "sha256": "aed40af5205414240ee873e808ee2043c89258edd7fb115e2d0049df2f5354af",
+  "size": 114470769,
+  "published_at": "2026-09-23T17:28:03.071349+00:00",
+  "changelog": "Chuẩn hóa câu chữ giao diện; sửa kiểm tra toàn vẹn khi chạy từ mã nguồn; khởi tạo heartbeat ngay sau lần kích hoạt đầu tiên; bổ sung run_test.bat.",
+  "signature": "sm25QfSBnVXd3iIiy1tuJ/KtvPj5N/Oxgbg5SbEAOiYr/kiHk8IEsZPJMB0SeRj8qGZbgRGvdsGanHKdGmbZCw=="
 }
