@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.0.5/BearUongMilo_v1.0.5.zip",
-  "sha256": "535f29975f59843e9240a4181c006ce69ceec15632d84aacd58e4a58e676760e",
-  "size": 114641015,
-  "published_at": "2026-09-24T04:51:22.624879+00:00",
-  "changelog": "Cải tiến giao diện node workflow; bổ sung giám sát phiên chạy và phục hồi; hỗ trợ Sign in & Sign Up với ZingID; tối ưu Lưu kết quả & Clone tab mới.",
-  "signature": "SkJkw+rscWeOiIdrMusw6tztt1lu41wZlBrQC0jk1qwsNGOycLP7/YFTb9E50seA4T+JZYHFZR9HTu586zBgAw=="
+  "version": "1.0.7",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.0.7/BearUongMilo_v1.0.7.zip",
+  "sha256": "5fd1c38505aefd6fd321bfe563ba90654a969db85fdb2d942b42c539ce01cfeb",
+  "size": 168956278,
+  "published_at": "2026-09-24T18:37:17.607887+00:00",
+  "changelog": "BearUongMilo v1.0.7 update.",
+  "signature": "kkwD63O9JZIjC4d5GOlC6V8H/hbB2KAtLixUAeH5lbMd/GzgImyPj+/Jp2sUnxTZfgvHqk4wMi3AQtkHpZe0BQ=="
 }
