@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.0.8/BearUongMilo_v1.0.8.zip",
-  "sha256": "45e7b79a8fcd1375a79d9b4100f2559ace35cfdb3f0c22376355d7743e684dd1",
-  "size": 172811251,
-  "published_at": "2026-09-24T19:11:14.461919+00:00",
-  "changelog": "Tăng cường bảo vệ dữ liệu nhạy cảm, làm sạch công cụ kiểm thử và ổn định quy trình phát hành.",
-  "signature": "eWSd3z9ybCZut+rcHsLs72n6EgS1FUKwQXJ4Sh0WNU66/LKiX+0sx2LUup9my8hp5PYawTWucEsppMi7BfNrCA=="
+  "version": "1.0.9",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.0.9/BearUongMilo_v1.0.9.zip",
+  "sha256": "1ac07dc51f7a53da59c188e2db238854e4144cdf1a308380118a25de99f7b248",
+  "size": 172863772,
+  "published_at": "2026-09-25T00:57:17.597188+00:00",
+  "changelog": "BearUongMilo v1.0.9 update.",
+  "signature": "Bqa/6BcBzCHcDB6O4t4B8t3RFvDXoNXFWNjld7mLgLJQbpxJM9g/drEfe3vB+4dk3b/EobDQNgOE9ymtCIruAA=="
 }
