@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.1.1/BearUongMilo_v1.1.1.zip",
-  "sha256": "67bdaaeaa3819c3f1a7f181d5a2aa301c5c6dd68ce68cd12cc99d2db292a5d4d",
-  "size": 169023389,
-  "published_at": "2026-09-25T02:25:12.270215+00:00",
-  "changelog": "BearUongMilo v1.1.1 update.",
-  "signature": "dUL/qZJa19k2m82zO6OM5dGjptC3Pt+uP7tKj/Pk4pkFqC670jvvZUbtnhykRAgbXDwCArTYWIP+ZDeRenBdBA=="
+  "version": "1.1.2",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.1.2/BearUongMilo_v1.1.2.zip",
+  "sha256": "28ceb9b773bd237a68f3e4e687867859d989a48d5782b6b81e6008d079015fd5",
+  "size": 169029732,
+  "published_at": "2026-09-25T11:07:57.499467+00:00",
+  "changelog": "BearUongMilo v1.1.2 update.",
+  "signature": "cmQGC9QlugnPp3iPWER86sr6Juic6P0aOTvDt/zm3EWA7N+EbEqoYM/XG5E+zZy96j0LEDC6k1L2lm1f9g46Aw=="
 }
