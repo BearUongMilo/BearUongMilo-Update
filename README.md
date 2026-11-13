@@ -31,9 +31,4 @@ runtime và thư viện cần thiết; không cần cài Python hoặc Node.js.
 - Hỗ trợ EN/VI, theme sáng/tối, màu cá nhân và ảnh nền.
 - Dùng graph và lõi thực thi workflow tương thích trong gói mới.
 
-Màn cập nhật **bên trong giao diện 2.0.1** hiện là bản xem trước, chưa tự tải/cài
-các lần phát hành tiếp theo. Việc cập nhật **từ app 1.x lên 2.0.1** qua kênh cũ
-đã được nối thật.
 
-Repo này cung cấp gói phát hành cùng `version.json` và `integrity.json` có chữ ký.
-Lịch sử Git được giữ lại; các Release/tag 1.x đã được ngừng phân phối.
