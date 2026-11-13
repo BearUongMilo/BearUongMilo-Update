@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.0/BearUongMilo_v1.8.0.zip",
-  "sha256": "635bcc3bb4db1a1d704a2d7f5372c7f208e99dd4d0b84cca9367a16a890e675d",
-  "size": 172741884,
-  "published_at": "2026-11-03T02:57:18.780257+00:00",
-  "changelog": "BearUongMilo v1.8.0 update.",
-  "signature": "06Xmc0tPVruwdaovwVjTVu5/emiUE0J+PNQ8HdUTow1NZNQAP82X0+XlVNqqi8n3vTNI63xe+UaN/gnfxcJ3DA=="
+  "version": "2.0.1",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.1/BearUongMilo_v2.0.1.zip",
+  "sha256": "1ae18fa62ade09ed0460977d35b643164dbe177446c1c6e02ad7ca2e12f13434",
+  "size": 218410846,
+  "published_at": "2026-11-13T11:47:11.045952+00:00",
+  "changelog": "BearUongMilo 2.0.1\n\nGiao diện desktop mới, tiếp nối BearCute 1.x.\n- Workflow Studio, Dashboard, Debug và các công cụ đã được chuyển sang giao diện mới.\n- Gói Windows kèm Python runtime, không cần cài Python riêng.\n- Bản 1.x có thể nâng cấp qua nút Kiểm tra cập nhật hiện tại.\n- Giữ nguyên dữ liệu cũ; key được xác thực lại khi mở bản mới.\n\nGiải nén và chạy BearUongMilo.exe nếu cài mới. Windows 10/11 x64; cần Microsoft Edge WebView2 Runtime.\nPhần cập nhật bên trong giao diện 2.0.1 hiện là bản xem trước; không tự tải/cài từ màn hình xem thử.",
+  "signature": "1zwwpsjS94IUIOXFzEc4thSyxvzd4MmCSooT+F1Hk5/emmWEDM9aZTYosti6osGzSIHbyKDVeSQbelwI+y/YCQ=="
 }
