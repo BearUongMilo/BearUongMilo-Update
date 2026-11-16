@@ -1,9 +1,9 @@
 {
-  "version": "2.0.4",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.4/BearUongMilo_v2.0.4.zip",
-  "sha256": "ea0e3588d9f8005f1d670d738fcfe2b384472708845017e0d730fd938c04ebff",
-  "size": 235354458,
-  "published_at": "2026-11-16T04:54:27.754295+00:00",
-  "changelog": "BearUongMilo 2.0.4\n\n- Sửa lỗi mở ứng dụng trên máy thiếu WebView2. Ứng dụng có thể tải và cài runtime từ Microsoft sau khi bạn xác nhận, kể cả trên máy không có Microsoft Store.\n- Mở rộng kiểm tra luồng trước khi chạy và bổ sung thông tin lỗi trong Nhật ký Workflow.\n\nTrên Windows 10/11 x64, tải BearUongMilo.exe rồi mở trực tiếp. Nếu tải gói ZIP, giải nén trước khi mở EXE.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "gv7lI6wP4PZ+1bu4CDEhncEf/HW9eRmVry7H3iXLg6lLQK1z3U0Ttj6A5ZAuCvrfzd47Iefqng9k0jhOkhM9CQ=="
+  "version": "1.8.0",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.0/BearUongMilo_v1.8.0.zip",
+  "sha256": "635bcc3bb4db1a1d704a2d7f5372c7f208e99dd4d0b84cca9367a16a890e675d",
+  "size": 172741884,
+  "published_at": "2026-11-16T09:07:05.585901+00:00",
+  "changelog": "BearUongMilo 1.8.0 — giao diện Fluent\n\nPhát hành lại bản 1.8.0 để khách hàng sử dụng tạm.\n\n- Cài mới hoặc quay về từ bản 2.x: tải BearUongMilo.exe và mở trong một thư mục riêng.\n- Nếu tải ZIP, giải nén trước khi mở ứng dụng.\n- Nhập key bản quyền khi ứng dụng yêu cầu.\n- Khách đang dùng bản 2.x cần tải và mở bản này thủ công.\n\nWindows 10 1607 chưa được kiểm chứng với gói này.\n",
+  "signature": "zat2Qfw1WQE5pBzQu8p0oJNAJV2i4rlrXD3bJOTcJHm1+mBde1BeWLbv50NBSMUyxBaKOa+tAfXVPhk2uZ8iCw=="
 }
