@@ -1,9 +1,9 @@
 {
-  "version": "2.0.1",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.1/BearUongMilo_v2.0.1.zip",
-  "sha256": "1ae18fa62ade09ed0460977d35b643164dbe177446c1c6e02ad7ca2e12f13434",
-  "size": 218410846,
-  "published_at": "2026-11-13T11:47:11.045952+00:00",
-  "changelog": "BearUongMilo 2.0.1\n\nGiao diện desktop mới, tiếp nối BearCute 1.x.\n- Workflow Studio, Dashboard, Debug và các công cụ đã được chuyển sang giao diện mới.\n- Gói Windows kèm Python runtime, không cần cài Python riêng.\n- Bản 1.x có thể nâng cấp qua nút Kiểm tra cập nhật hiện tại.\n- Giữ nguyên dữ liệu cũ; key được xác thực lại khi mở bản mới.\n\nGiải nén và chạy BearUongMilo.exe nếu cài mới. Windows 10/11 x64; cần Microsoft Edge WebView2 Runtime.\nPhần cập nhật bên trong giao diện 2.0.1 hiện là bản xem trước; không tự tải/cài từ màn hình xem thử.",
-  "signature": "1zwwpsjS94IUIOXFzEc4thSyxvzd4MmCSooT+F1Hk5/emmWEDM9aZTYosti6osGzSIHbyKDVeSQbelwI+y/YCQ=="
+  "version": "2.0.4",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.4/BearUongMilo_v2.0.4.zip",
+  "sha256": "ea0e3588d9f8005f1d670d738fcfe2b384472708845017e0d730fd938c04ebff",
+  "size": 235354458,
+  "published_at": "2026-11-16T04:54:27.754295+00:00",
+  "changelog": "BearUongMilo 2.0.4\n\n- Sửa lỗi mở ứng dụng trên máy thiếu WebView2. Ứng dụng có thể tải và cài runtime từ Microsoft sau khi bạn xác nhận, kể cả trên máy không có Microsoft Store.\n- Mở rộng kiểm tra luồng trước khi chạy và bổ sung thông tin lỗi trong Nhật ký Workflow.\n\nTrên Windows 10/11 x64, tải BearUongMilo.exe rồi mở trực tiếp. Nếu tải gói ZIP, giải nén trước khi mở EXE.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "gv7lI6wP4PZ+1bu4CDEhncEf/HW9eRmVry7H3iXLg6lLQK1z3U0Ttj6A5ZAuCvrfzd47Iefqng9k0jhOkhM9CQ=="
 }
