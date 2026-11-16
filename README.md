@@ -1,16 +1,16 @@
 # BearUongMilo
 
-**Bản dùng tạm — giao diện Fluent 1.8.0**
+**Bản dùng tạm — giao diện Fluent 1.8.1**
 
-[Tải BearUongMilo.exe](https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.0/BearUongMilo.exe) · [Xem bản phát hành 1.8.0](https://github.com/BearUongMilo/BearUongMilo-Update/releases/tag/v1.8.0)
+[Tải BearUongMilo.exe](https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.1/BearUongMilo.exe) · [Xem bản phát hành 1.8.1](https://github.com/BearUongMilo/BearUongMilo-Update/releases/tag/v1.8.1)
 
 1. Tải EXE và đặt trong một thư mục riêng. Nếu tải ZIP, giải nén trước khi mở.
 2. Mở BearUongMilo.exe rồi nhập key bản quyền theo hướng dẫn trong ứng dụng.
 3. Chọn MuMu Manager trong cài đặt, kết nối giả lập rồi mở workflow cần chạy.
 
-Khách đang dùng bản 2.x cần tải và mở bản 1.8.0 thủ công.
+Khách đang dùng bản 2.x cần tải và mở bản 1.8.1 thủ công.
 
-Gói này được phát hành lại từ bản 1.8.0 gốc. Windows 10 1607 chưa được kiểm chứng với gói này.
+Gói 1.8.1 được build lại bằng quy trình deploy của bản Fluent. Windows 10 1607 chưa được kiểm chứng với gói này.
 
 <details>
 <summary>Hướng dẫn giao diện 2.x trước đây</summary>
