@@ -1,9 +1,9 @@
 {
-  "version": "1.8.0",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.0/BearUongMilo_v1.8.0.zip",
-  "sha256": "635bcc3bb4db1a1d704a2d7f5372c7f208e99dd4d0b84cca9367a16a890e675d",
-  "size": 172741884,
-  "published_at": "2026-11-16T09:07:05.585901+00:00",
-  "changelog": "BearUongMilo 1.8.0 — giao diện Fluent\n\nPhát hành lại bản 1.8.0 để khách hàng sử dụng tạm.\n\n- Cài mới hoặc quay về từ bản 2.x: tải BearUongMilo.exe và mở trong một thư mục riêng.\n- Nếu tải ZIP, giải nén trước khi mở ứng dụng.\n- Nhập key bản quyền khi ứng dụng yêu cầu.\n- Khách đang dùng bản 2.x cần tải và mở bản này thủ công.\n\nWindows 10 1607 chưa được kiểm chứng với gói này.\n",
-  "signature": "zat2Qfw1WQE5pBzQu8p0oJNAJV2i4rlrXD3bJOTcJHm1+mBde1BeWLbv50NBSMUyxBaKOa+tAfXVPhk2uZ8iCw=="
+  "version": "1.8.1",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.1/BearUongMilo_v1.8.1.zip",
+  "sha256": "e147dc2821c716140bc2c152a51e5d578ca0d504aa8db8cd2c68b25284423d45",
+  "size": 173810407,
+  "published_at": "2026-11-16T09:18:36.900583+00:00",
+  "changelog": "BearUongMilo 1.8.1 - giao dien Fluent. Build lai bang quy trinh deploy goc. Goi EXE mot file, kem cac thu vien can thiet va xac thuc ban quyen.",
+  "signature": "1hUKQuclhAOO3KWYjmAmVX+5Qn+LDrZ0SqXN1uPBBwVZhPvAN8gtc6ITiPVNbQt+zNzI7/5IfvYDINlIvIZRAg=="
 }
