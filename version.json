@@ -1,9 +1,9 @@
 {
-  "version": "1.8.1",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v1.8.1/BearUongMilo_v1.8.1.zip",
-  "sha256": "e147dc2821c716140bc2c152a51e5d578ca0d504aa8db8cd2c68b25284423d45",
-  "size": 173810407,
-  "published_at": "2026-11-16T09:18:36.900583+00:00",
-  "changelog": "BearUongMilo 1.8.1 - giao dien Fluent. Build lai bang quy trinh deploy goc. Goi EXE mot file, kem cac thu vien can thiet va xac thuc ban quyen.",
-  "signature": "1hUKQuclhAOO3KWYjmAmVX+5Qn+LDrZ0SqXN1uPBBwVZhPvAN8gtc6ITiPVNbQt+zNzI7/5IfvYDINlIvIZRAg=="
+  "version": "2.0.4",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.4/BearUongMilo_v2.0.4.zip",
+  "sha256": "ea0e3588d9f8005f1d670d738fcfe2b384472708845017e0d730fd938c04ebff",
+  "size": 235354458,
+  "published_at": "2026-11-16T04:54:27.754295+00:00",
+  "changelog": "BearUongMilo 2.0.4\n\n- Sửa lỗi mở ứng dụng trên máy thiếu WebView2. Ứng dụng có thể tải và cài runtime từ Microsoft sau khi bạn xác nhận, kể cả trên máy không có Microsoft Store.\n- Mở rộng kiểm tra luồng trước khi chạy và bổ sung thông tin lỗi trong Nhật ký Workflow.\n\nTrên Windows 10/11 x64, tải BearUongMilo.exe rồi mở trực tiếp. Nếu tải gói ZIP, giải nén trước khi mở EXE.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "gv7lI6wP4PZ+1bu4CDEhncEf/HW9eRmVry7H3iXLg6lLQK1z3U0Ttj6A5ZAuCvrfzd47Iefqng9k0jhOkhM9CQ=="
 }
