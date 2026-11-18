@@ -1,9 +1,9 @@
 {
-  "version": "2.0.6",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.6/BearUongMilo.exe",
-  "sha256": "1b31b1c3b6b56af1e9902f0f69cb1372351a93153bdf5ce417b9a0e290211298",
-  "size": 235417374,
-  "published_at": "2026-11-18T14:43:09.336740+00:00",
-  "changelog": "BearUongMilo 2.0.6\n\n- Nhập workflow BearCute từ JSON hoặc .bearflow. Tự cập nhật node tương thích, tìm lại ảnh mẫu và chỉ đúng node cần sửa.\n- Kiểm tra, tải và cài cập nhật EXE trong ứng dụng. Tự khôi phục EXE trước nếu bản mới không khởi động được.\n- Xuất báo cáo lỗi đã loại bỏ key bản quyền, tài khoản và nội dung nhật ký.\n\nNếu đang dùng BearCute hoặc BearUongMilo 2.0.5 trở xuống, tải BearUongMilo.exe từ mục Assets rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "CxLCKKJXyQOQ0E684WpK735BvFIUV0SnbikiesTLQbbXhUbhvA8trsCFSqAqsPz819Kfz78NAfsLrMVHg4/XDw=="
+  "version": "2.0.7",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.7/BearUongMilo.exe",
+  "sha256": "8d80c5d17c7f6a4241cd08afeee433f07bd2f2385d2aaa198ab230318ee90618",
+  "size": 235459182,
+  "published_at": "2026-11-18T18:29:01.502533+00:00",
+  "changelog": "BearUongMilo 2.0.7\n\n- Căn ảnh nền trong khung xem trước bằng chuột hoặc phím mũi tên. Chọn Lấp đầy hoặc Vừa khung, thu phóng đến 200%.\n- Tự sắp xếp tối đa 6 node mỗi hàng trong một khung. Các khung được bố trí theo kích thước để tránh chồng nhau.\n- Thả khung sau khi kéo giữ nguyên trạng thái bảng cấu hình.\n- Kết nối lại ADB từ menu chuột phải trên card giả lập ở Dashboard.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "5Wl0vgNjhzevrUbTfPvYBpB1CN8zU6y122hm8o2/dt5zULGXs91H54T4YMTN5B3rEwF/qNCmeJ5QI9YJqqaNAQ=="
 }
