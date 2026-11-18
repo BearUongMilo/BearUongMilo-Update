@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.5/BearUongMilo.exe",
-  "size": 235318974,
-  "sha256": "20b3850ef03867d11f5304c47bd0a8837e206867c1468a0dbb0331414421a914",
-  "published_at": "2026-11-17T19:54:06Z",
-  "changelog": "Thêm cửa sổ hiển thị tiến trình tải, xác minh và cài WebView2 khi mở ứng dụng trên máy thiếu runtime.\n\nTải BearUongMilo.exe và mở trực tiếp trên Windows 10 từ bản 1809 hoặc Windows 11 (64-bit).\n",
-  "signature": "8wtedDksPQbo3Oqgq5G3ue/F4IykB1PyS28NEQPE5Nzc90cLDat8fII28aDRJCWDqO69WGD7JrYdu7qoWCVlDg=="
+  "version": "2.0.6",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.6/BearUongMilo.exe",
+  "sha256": "1b31b1c3b6b56af1e9902f0f69cb1372351a93153bdf5ce417b9a0e290211298",
+  "size": 235417374,
+  "published_at": "2026-11-18T14:43:09.336740+00:00",
+  "changelog": "BearUongMilo 2.0.6\n\n- Nhập workflow BearCute từ JSON hoặc .bearflow. Tự cập nhật node tương thích, tìm lại ảnh mẫu và chỉ đúng node cần sửa.\n- Kiểm tra, tải và cài cập nhật EXE trong ứng dụng. Tự khôi phục EXE trước nếu bản mới không khởi động được.\n- Xuất báo cáo lỗi đã loại bỏ key bản quyền, tài khoản và nội dung nhật ký.\n\nNếu đang dùng BearCute hoặc BearUongMilo 2.0.5 trở xuống, tải BearUongMilo.exe từ mục Assets rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "CxLCKKJXyQOQ0E684WpK735BvFIUV0SnbikiesTLQbbXhUbhvA8trsCFSqAqsPz819Kfz78NAfsLrMVHg4/XDw=="
 }
