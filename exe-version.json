@@ -1,0 +1,9 @@
+{
+  "version": "2.0.5",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.5/BearUongMilo.exe",
+  "size": 235318974,
+  "sha256": "20b3850ef03867d11f5304c47bd0a8837e206867c1468a0dbb0331414421a914",
+  "published_at": "2026-11-17T19:54:06Z",
+  "changelog": "Thêm cửa sổ hiển thị tiến trình tải, xác minh và cài WebView2 khi mở ứng dụng trên máy thiếu runtime.\n\nTải BearUongMilo.exe và mở trực tiếp trên Windows 10 từ bản 1809 hoặc Windows 11 (64-bit).\n",
+  "signature": "8wtedDksPQbo3Oqgq5G3ue/F4IykB1PyS28NEQPE5Nzc90cLDat8fII28aDRJCWDqO69WGD7JrYdu7qoWCVlDg=="
+}
