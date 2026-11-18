@@ -1,9 +1,9 @@
 {
-  "version": "2.0.7",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.7/BearUongMilo.exe",
-  "sha256": "8d80c5d17c7f6a4241cd08afeee433f07bd2f2385d2aaa198ab230318ee90618",
-  "size": 235459182,
-  "published_at": "2026-11-18T18:29:01.502533+00:00",
-  "changelog": "BearUongMilo 2.0.7\n\n- Căn ảnh nền trong khung xem trước bằng chuột hoặc phím mũi tên. Chọn Lấp đầy hoặc Vừa khung, thu phóng đến 200%.\n- Tự sắp xếp tối đa 6 node mỗi hàng trong một khung. Các khung được bố trí theo kích thước để tránh chồng nhau.\n- Thả khung sau khi kéo giữ nguyên trạng thái bảng cấu hình.\n- Kết nối lại ADB từ menu chuột phải trên card giả lập ở Dashboard.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "5Wl0vgNjhzevrUbTfPvYBpB1CN8zU6y122hm8o2/dt5zULGXs91H54T4YMTN5B3rEwF/qNCmeJ5QI9YJqqaNAQ=="
+  "version": "2.0.8",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.8/BearUongMilo.exe",
+  "sha256": "afe87b87330b22629226b58ca006dd280239cbb2c335abf147155e7cbe586dcf",
+  "size": 235475112,
+  "published_at": "2026-11-18T20:24:35.114464+00:00",
+  "changelog": "BearUongMilo 2.0.8\n\n- Đối chiếu Device ID và cửa sổ MuMu khi khởi chạy nhiều giả lập cùng lúc.\n- Làm mới kết nối IPC của từng phiên. Khi IPC chụp lỗi, chuyển sang lấy ảnh mới qua ADB theo đúng Device ID.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "2055Np6j7dy8rZidsqD4VbejsSAlzwZC17WnAW2t4DoEFVk4qb6wpZNSkpX0AwbvzIvtfUP1SI7UWGdmaqCNAw=="
 }
