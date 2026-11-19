@@ -1,9 +1,9 @@
 {
-  "version": "2.0.10",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.10/BearUongMilo.exe",
-  "sha256": "3e62be04536d7025fb8a5920a5686ae68c3db0977193b24c8d170f0b1d6f3999",
-  "size": 235566777,
-  "published_at": "2026-11-19T11:08:17.831844+00:00",
-  "changelog": "BearUongMilo 2.0.10\n\n- Sửa lỗi app đóng khi cài bản cập nhật nhưng trình cập nhật chưa chạy. App chờ trình cập nhật khởi động trước khi đóng và tự mở lại sau khi thay EXE.\n- Thêm “Chạy lại workflow” trên Dashboard cho giả lập còn kết nối ADB sau khi phiên gặp lỗi. Có thể chạy lại trên cùng tab sau khi sửa workflow.\n\nNếu trình cập nhật của bản đang dùng đóng app mà không mở lại, hãy tải BearUongMilo.exe từ bản phát hành này và thay EXE thủ công một lần.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "QjOCaXEKygUK3KKtC93rKQAh5qmmjVZbEWsdf89I0jswEElf2FhObU9E+wb6EJfhXORYm9mzaXPRI01MQD+eCA=="
+  "version": "2.1.0",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.1.0/BearUongMilo.exe",
+  "sha256": "5f5c890e9b7671ca83cccd14d9a869fe34d58fb7e528510a289f4a27c2a0e10f",
+  "size": 235565833,
+  "published_at": "2026-11-19T11:53:21.232965+00:00",
+  "changelog": "BearUongMilo 2.1.0\n\n- Giữ nút Chạy workflow ở đáy hộp chọn giả lập. Danh sách cuộn riêng để nút luôn hiển thị trên cửa sổ thấp.\n- Bỏ mục Cảnh báo trong hộp chọn. Lỗi cần sửa vẫn hiển thị và chặn chạy.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "jxSGCN0ID2q+tHQFpBjP1QEw/P7id3NpQjBhpIUpz5ODo3n+w1StQAR7bE01L4P8v2TRES663XWdl5TqB1qtBA=="
 }
