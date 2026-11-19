@@ -1,9 +1,9 @@
 {
-  "version": "2.0.8",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.8/BearUongMilo.exe",
-  "sha256": "afe87b87330b22629226b58ca006dd280239cbb2c335abf147155e7cbe586dcf",
-  "size": 235475112,
-  "published_at": "2026-11-18T20:24:35.114464+00:00",
-  "changelog": "BearUongMilo 2.0.8\n\n- Đối chiếu Device ID và cửa sổ MuMu khi khởi chạy nhiều giả lập cùng lúc.\n- Làm mới kết nối IPC của từng phiên. Khi IPC chụp lỗi, chuyển sang lấy ảnh mới qua ADB theo đúng Device ID.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "2055Np6j7dy8rZidsqD4VbejsSAlzwZC17WnAW2t4DoEFVk4qb6wpZNSkpX0AwbvzIvtfUP1SI7UWGdmaqCNAw=="
+  "version": "2.0.9",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.0.9/BearUongMilo.exe",
+  "sha256": "1406968ea5b8382a1e83a9d8dcd69f7451f2be5e629fe82a186dcc3507b83c5b",
+  "size": 235564982,
+  "published_at": "2026-11-19T09:44:50.876190+00:00",
+  "changelog": "BearUongMilo 2.0.9\n\n- Bỏ bước chụp ADB đối chiếu thêm khi workflow xác nhận ảnh dừng. Luồng quét trên MuMu dùng kết nối IPC riêng của từng giả lập.\n- Sửa lỗi mất kết nối Workflow khi ảnh trước và sau click vượt giới hạn dữ liệu.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "6NWAYWlPNOBpCwtcQM8CUTYDk8ZfUiH8PdL5Dph92AEjPVHqaqBjTnfBvajJlHFpqWql9aTje/9M5jDvfVhZAQ=="
 }
