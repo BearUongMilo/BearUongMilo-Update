@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.1.0/BearUongMilo.exe",
-  "sha256": "5f5c890e9b7671ca83cccd14d9a869fe34d58fb7e528510a289f4a27c2a0e10f",
-  "size": 235565833,
-  "published_at": "2026-11-19T11:53:21.232965+00:00",
-  "changelog": "BearUongMilo 2.1.0\n\n- Giữ nút Chạy workflow ở đáy hộp chọn giả lập. Danh sách cuộn riêng để nút luôn hiển thị trên cửa sổ thấp.\n- Bỏ mục Cảnh báo trong hộp chọn. Lỗi cần sửa vẫn hiển thị và chặn chạy.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "jxSGCN0ID2q+tHQFpBjP1QEw/P7id3NpQjBhpIUpz5ODo3n+w1StQAR7bE01L4P8v2TRES663XWdl5TqB1qtBA=="
+  "version": "2.1.1",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.1.1/BearUongMilo.exe",
+  "sha256": "ebcbb6b507cf15b24c352de4f56544275c64cf9878a6cdbceaaf1ddf823bcdd7",
+  "size": 235582499,
+  "published_at": "2026-11-22T15:34:43.006972+00:00",
+  "changelog": "BearUongMilo 2.1.1\n\n- Sửa lỗi không mở được cửa sổ ứng dụng (WebView2 báo \"Access is denied\") khi Windows chạy BearUongMilo ở mức integrity thấp hơn WebView2. Nếu gặp lại tình huống này, hộp lỗi sẽ nêu rõ nguyên nhân và cách xử lý.\n- Bộ chạy được giải nén vào %LOCALAPPDATA%\\BearUongMiloDesktop-Cache như bản 2.1.0. Mở EXE không cần quyền quản trị.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "+FWV5vnwjFmF+oyis7yb1HUipnBM559IWQrA/uuM4OLSGcXtNu5m8u5DiSvWgKWR2EaVbQ83fIfDCY/7jTF6DQ=="
 }
