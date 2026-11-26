@@ -1,9 +1,9 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.1.4/BearUongMilo.exe",
-  "sha256": "45f6206bb3345bdad706cbc1a6a0b0236c6f01294481815258e430c664416fb7",
-  "size": 190651603,
-  "published_at": "2026-11-25T23:10:31.383103+00:00",
-  "changelog": "BearUongMilo 2.1.4\n\n- Quản lý Proxy: tăng tốc luồng tạo cụm proxy (giãn nhịp /addKey song song, khởi chạy đa shard sing-box đồng thời, kiểm tra WAN IP nhanh gấp ~3 lần qua Cloudflare HTTP) và mở giới hạn tạo lên 500 cổng/lần.\n- Quản lý Proxy: tự né máy chủ PIA bị timeout, tự kiểm tra và thay thế cổng Lỗi tuyến mỗi 15 giây, tự gom gọn shard sing-box sau tạo/lọc trùng để tiết kiệm RAM, sửa deadlock xoay API đồng thời và khắc phục chế độ thu nhỏ xuống System Tray.\n- Giao diện & trải nghiệm: khóa cuộn ngoài trang Quản lý Proxy (chỉ cuộn bên trong danh sách cổng, luôn hiển thị dòng trạng thái đáy), đổi tên tab thành Proxy giả lập / Emulator proxy, bỏ Sync bot file, bổ sung công tắc tự xử lý cổng trùng IP, sửa nút và hộp thoại Kiểm tra luồng bên Workflow Studio, hoàn thiện bản dịch tiếng Anh.\n- Protocol Bot (OMG 3Q) & Backend: chống rò IP thật khi gặp HTTP 429, đọc trực tiếp WAN IP từ BearProxy không chờ ipify, làm sạch Keep-Alive pool khi xoay IP, cách ly slot proxy lỗi an toàn, bật SQLite WAL và giảm ghi đĩa khi chạy 24/7.\n- Thu gọn gói phân phối Single-EXE BearUongMilo.exe từ ~253 MB xuống ~182 MB (giảm hơn 50% số tệp giải nén, khởi động nhẹ hơn).\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
-  "signature": "rtkh+wgMTBLlU5xAQKvY2mdvdm/Wkvn80KSWlzozkchOXlX8DJzjYx2RaHKDB52VeCfv266ARQKJ4Xk7k2LLDQ=="
+  "version": "2.1.5",
+  "url": "https://github.com/BearUongMilo/BearUongMilo-Update/releases/download/v2.1.5/BearUongMilo.exe",
+  "sha256": "f317564d3565003fa8f86c62b3834625025ece203ffe4908e8d64fc13004d5c9",
+  "size": 190684876,
+  "published_at": "2026-11-26T13:51:11.147436+00:00",
+  "changelog": "BearUongMilo 2.1.5\n\nPhát hành BearUongMilo 2.1.5.\n\nTải BearUongMilo.exe rồi mở trực tiếp.\nWindows 10/11 x64 cần Microsoft Edge WebView2 Runtime.\nDữ liệu ứng dụng được lưu trong Documents/BearUongMilo.",
+  "signature": "rXkkfHlmnA7R8nS+x8iC+PuU2C1D1jn4Fum4duTtTqWvX7wXn7JsvKq2ug/S2PU2GIZiEUXBoifwIfXowziACQ=="
 }
